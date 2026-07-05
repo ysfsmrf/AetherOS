@@ -5,3 +5,4 @@ name=system
 extension=sp
 is_using_lib=true
 which_lib=systemlib.lao
+is_adminastor=true
