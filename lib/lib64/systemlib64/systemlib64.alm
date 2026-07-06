@@ -1,7 +1,7 @@
 isgame=false
 program_id=guid
 id=22282224616151222112128
-name=system
+name=systemlib64
 extension=lao
 is_using_lib=false
 is_lib=true
